@@ -1,7 +1,14 @@
-This is the link to the LLM session https://chatgpt.com/share/68fc73ca-ab90-800b-b36e-4c778e79e1df
+# Project Resources
 
-text.txt is the dataset
+* LLM Session: ChatGPT Conversation Link
 
-KG.ipynb contains the python code and the excution results
+This shared session contains the full LLM reasoning process, prompt chains, and workflow design for constructing the Knowledge Graph (KG).
 
-final_report.docx contains the solutions I approaches and the summary report
+* Dataset: text.txt
+The synthetic dataset used for knowledge extraction and graph construction.
+
+* Notebook: KG.ipynb
+This Jupyter Notebook includes the complete Python implementation, data processing pipeline, and execution outputs for Knowledge Graph generation.
+
+* Report: final_report.docx
+A detailed summary of the project approach, methodology, implementation decisions, evaluation metrics, and final conclusions.
