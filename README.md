@@ -1,7 +1,6 @@
 # Project Resources
 
 * LLM Session: ChatGPT Conversation Link
-
 This shared session contains the full LLM reasoning process, prompt chains, and workflow design for constructing the Knowledge Graph (KG).
 
 * Dataset: text.txt
